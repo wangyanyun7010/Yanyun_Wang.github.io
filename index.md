@@ -1,7 +1,6 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Yanyun Wang</h1>
       <p><b>MSc Student in Computer Science</b></p>
       <p><b>The University of Hong Kong</b></p>
       <p><b>Pokfulam Road, Hong Kong SAR, China</b></p>
