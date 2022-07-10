@@ -2,9 +2,9 @@
   <tr>
     <td width="75%">
       <h1>Yanyun Wang</h1>
-      <p><b>Master of Science Student in Computer Science</b></p>
+      <p><b>MSc Student in Computer Science</b></p>
       <p><b>The University of Hong Kong</b></p>
-      <p><b>Pokfulam Road, Hong Kong, China</b></p>
+      <p><b>Pokfulam Road, Hong Kong SAR, P.R.China</b></p>
       <p><b>Email: wangyanyun7010@outlook.com</b></p>
     </td>
     <td width="25%">
