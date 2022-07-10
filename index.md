@@ -7,7 +7,7 @@
       <p><b>  wangyanyun7010@outlook.com</b></p>
     </td>
     <td width="25%">
-      <img src="/5hyhx.png" width="100%">
+      <img src="/5hyhx.jpg" width="100%">
     </td>
   </tr>
 </table>
