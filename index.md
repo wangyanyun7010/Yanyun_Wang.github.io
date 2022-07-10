@@ -1,5 +1,3 @@
-title: Yanyun WANG
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wangyanyun7010/Yanyun_Wang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
