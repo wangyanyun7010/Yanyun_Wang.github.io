@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>  MSc Student in Computer Science</b></p>
-      <p><b>  The University of Hong Kong</b></p>
-      <p><b>  Pokfulam Road, Hong Kong SAR, China</b></p>
-      <p><b>  wangyanyun7010@outlook.com</b></p>
+      <p><b>&nbsp; &nbsp; &nbsp; MSc Student in Computer Science</b></p>
+      <p><b>&nbsp; &nbsp; &nbsp; The University of Hong Kong</b></p>
+      <p><b>&nbsp; &nbsp; &nbsp; Pokfulam Road, Hong Kong SAR, China</b></p>
+      <p><b>&nbsp; &nbsp; &nbsp; wangyanyun7010@outlook.com</b></p>
     </td>
     <td width="25%">
       <img src="5hyhx.jpg" width="100%">
