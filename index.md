@@ -14,9 +14,8 @@
   </tr>
 </table>
 
-
 ## Biography
-
+I am currently a first-year MSc student in Computer Science at The University of Hong Kong. I received my B.Eng. in Software Engineering at East China Normal University (ECNU) in 2022. Before that, I have been a part-time research assistant at the Shanghai Key Laboratory of Trustworthy Computing for 2 years, supervised by Prof. Dehui Du. I am considering being a PhD student in Fall 2023 and am looking for the position now.
 
 ## Research Interests
 - Adversarial Attack
@@ -29,44 +28,7 @@ Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li \\
 SafeAI @ AAAI 2022.
 
 ## Honors & Awards
-Excellent Graduate Award, East China Normal University, 2022
-Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022
-Excellent Undergraduate Student, East China Normal University, 2020/2021
-First/Second-class Scholarship, 2020/2021
-
-
-You can use the [editor on GitHub](https://github.com/wangyanyun7010/Yanyun_Wang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyanyun7010/Yanyun_Wang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Excellent Graduate Award, East China Normal University, 2022 \\
+Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022 \\
+Excellent Undergraduate Student, East China Normal University, 2020/2021 \\
+First/Second-class Scholarship, 2020/2021 \\
