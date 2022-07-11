@@ -31,4 +31,4 @@ SafeAI @ AAAI 2022.
 Excellent Graduate Award, East China Normal University, 2022 \\
 Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022 \\
 Excellent Undergraduate Student, East China Normal University, 2020/2021 \\
-First/Second-class Scholarship, 2020/2021 \\
+First/Second-class Scholarship, 2020/2021
