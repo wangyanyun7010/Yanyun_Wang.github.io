@@ -29,7 +29,10 @@ Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li \\
 SafeAI @ AAAI 2022.
 
 ## Honors & Awards
-
+Excellent Graduate Award, East China Normal University, 2022
+Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022
+Excellent Undergraduate Student, East China Normal University, 2020/2021
+First/Second-class Scholarship, 2020/2021
 
 
 You can use the [editor on GitHub](https://github.com/wangyanyun7010/Yanyun_Wang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
