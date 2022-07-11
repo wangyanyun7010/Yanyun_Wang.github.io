@@ -1,15 +1,15 @@
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <p><b>&nbsp; &nbsp; &nbsp; MSc Student in Computer Science</b></p>
       <p><b>&nbsp; &nbsp; &nbsp; The University of Hong Kong</b></p>
       <p><b>&nbsp; &nbsp; &nbsp; Pokfulam Road, Hong Kong SAR, China</b></p>
       <p><b>&nbsp; &nbsp; &nbsp; wangyanyun7010@outlook.com</b></p>
     </td>
     <td width="30%">
-      <img src="5hyhx.jpg" width="90%">
+      <img src="5hyhx.jpg" width="100%">
     </td>
-    <td width="10%">
+    <td width="5%">
     </td>
   </tr>
 </table>
@@ -19,14 +19,14 @@
 
 
 ## Research Interests
-
-· Adversarial Attack
-
-· Robustness, Explainability and Interpretability of Machine Learning
-
+- Adversarial Attack
+- Robustness, Explainability and Interpretability of Machine Learning
 
 ## Publications
-
+[Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](http://ceur-ws.org/Vol-3087/paper_19.pdf) \\
+Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li \\
+**Best Paper Award Nomination** \\
+SafeAI @ AAAI 2022.
 
 ## Honors & Awards
 
