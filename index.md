@@ -22,9 +22,9 @@ I am currently a first-year MSc student in Computer Science at The University of
 - Robustness, Explainability and Interpretability of Machine Learning
 
 ## Publications
-[Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](http://ceur-ws.org/Vol-3087/paper_19.pdf) \\
-Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li \\
-**Best Paper Award Nomination** \\
+[Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](http://ceur-ws.org/Vol-3087/paper_19.pdf), \\
+Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li, \\
+**Best Paper Award Nomination**, \\
 SafeAI @ AAAI 2022.
 
 ## Honors & Awards
