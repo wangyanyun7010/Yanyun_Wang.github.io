@@ -27,6 +27,9 @@ Mingjun Ma, Dehui Du, Yuanhao Liu, **Yanyun Wang**, Yiyang Li, \\
 **Best Paper Award Nomination**, \\
 SafeAI @ AAAI 2022.
 
+## Open Source Project
+[TSFool: Adversarial Time Series Generation to Fool RNNs](https://github.com/wangyanyun7010/TSFool-adversarial-time-series-generation-to-fool-RNNs)
+
 ## Honors & Awards
 Excellent Graduate Award, East China Normal University, 2022 \\
 Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022 \\
